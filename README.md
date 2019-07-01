@@ -9,6 +9,7 @@ After installing python3,
 2. In the python script - tenderscraper.py,
 
 3. if
+
 '''Python
 __name__ == '__main__':
 	driver = webdriver.Chrome('C:/Users/Rohan/Documents/chromedriver') # <----- EDIT THIS PATH TO THE PATH OF THE FOLDER THE CHROMEDRIVER IS IN 
